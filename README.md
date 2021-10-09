@@ -85,7 +85,7 @@ git push -u origin <your_branch_name>
 ### Programming Languages
 
 - [ ] Python 3.7
-- Python OOPS concepts
+- [ ] Python OOPS concepts
 
 ### Modules and Frameworks
 
