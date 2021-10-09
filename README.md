@@ -84,24 +84,24 @@ git push -u origin <your_branch_name>
 
 ### Programming Languages
 
-- [] Python 3.7
+- [ ] Python 3.7
 - Python OOPS concepts
 
 ### Modules and Frameworks
 
-- [] Pandas
-- [] Numpy
-- [] Flask
+- [ ] Pandas
+- [ ] Numpy
+- [ ] Flask
 
 ### Deep Learning Frameworks and Methods
 
-- [] TensorFlow
-- [] Image Classification Models
+- [ ] TensorFlow
+- [ ] Image Classification Models
 
 ### Python packaging
 
-- [] Basic package
-- [] Uploading to PyPi
+- [ ] Basic package
+- [ ] Uploading to PyPi
 
 ### Congrats !!! You have your first Python package. 
 
