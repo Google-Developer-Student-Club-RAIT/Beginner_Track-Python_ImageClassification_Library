@@ -79,3 +79,40 @@ git push -u origin <your_branch_name>
 
 
 - Congratulations! You have made a PR. Sit back patiently and relax while your PR is reviewed.
+
+## Topics to cover
+
+### Programming Languages
+
+- [] Python 3.7
+- Python OOPS concepts
+
+### Modules and Frameworks
+
+- [] Pandas
+- [] Numpy
+- [] Flask
+
+### Deep Learning Frameworks and Methods
+
+- [] TensorFlow
+- [] Image Classification Models
+
+### Python packaging
+
+- [] Basic package
+- [] Uploading to PyPi
+
+### Congrats !!! You have your first Python package. 
+
+
+### Contributors
+
+### Contact
+
+Maintainer : 9930046@gmail.com
+
+## LICENSE
+Copyright (c) **GDSC Rait**. All rights reserved. Licensed under the MIT License
+
+[![](https://img.shields.io/github/license/junaidrahim/desiresalesportal?style=for-the-badge)](LICENSE)
