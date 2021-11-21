@@ -1,4 +1,4 @@
-# Beginner Track For Python Image Classification Library
+# Intermediate Track For Python Image Classification Library
 ![](Python.png)
 
 ## Information 
